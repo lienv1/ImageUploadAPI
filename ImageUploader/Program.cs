@@ -64,7 +64,7 @@ namespace ImageUploader
 
             List<string> picturesByGetRequest = new List<string>();
             Console.WriteLine("Get all pictures by get request");
-            picturesByGetRequest = GetAllPicturesInWebshop(fileserverUrl+"/images/products").Result;
+            picturesByGetRequest = GetAllPicturesInFileserver(fileserverUrl+"/images/products").Result;
 
             foreach (string picture in localPictures)
             {
@@ -192,7 +192,7 @@ namespace ImageUploader
             }
         }
 
-        private static async Task<List<string>> GetAllPicturesInWebshop(string fileserverUrl)
+        private static async Task<List<string>> GetAllPicturesInFileserver(string fileserverUrl)
         {
             List<string> pictures = new List<string>();
             using (HttpClient httpClient = new HttpClient())
