@@ -1,0 +1,13 @@
+C:\GitHub\ConsoleApps\WebshopSync\ImageUploader\ImageUploader\bin\Debug\ImageUploader.exe.config
+C:\GitHub\ConsoleApps\WebshopSync\ImageUploader\ImageUploader\bin\Debug\ImageUploader.exe
+C:\GitHub\ConsoleApps\WebshopSync\ImageUploader\ImageUploader\bin\Debug\ImageUploader.pdb
+C:\GitHub\ConsoleApps\WebshopSync\ImageUploader\ImageUploader\bin\Debug\JsonConverter.Abstractions.dll
+C:\GitHub\ConsoleApps\WebshopSync\ImageUploader\ImageUploader\bin\Debug\JsonConverter.Newtonsoft.Json.dll
+C:\GitHub\ConsoleApps\WebshopSync\ImageUploader\ImageUploader\bin\Debug\Newtonsoft.Json.dll
+C:\GitHub\ConsoleApps\WebshopSync\ImageUploader\ImageUploader\bin\Debug\Stef.Validation.dll
+C:\GitHub\ConsoleApps\WebshopSync\ImageUploader\ImageUploader\bin\Debug\Newtonsoft.Json.xml
+C:\GitHub\ConsoleApps\WebshopSync\ImageUploader\ImageUploader\obj\Debug\ImageUploader.csproj.AssemblyReference.cache
+C:\GitHub\ConsoleApps\WebshopSync\ImageUploader\ImageUploader\obj\Debug\ImageUploader.csproj.CoreCompileInputs.cache
+C:\GitHub\ConsoleApps\WebshopSync\ImageUploader\ImageUploader\obj\Debug\ImageUploader.csproj.CopyComplete
+C:\GitHub\ConsoleApps\WebshopSync\ImageUploader\ImageUploader\obj\Debug\ImageUploader.exe
+C:\GitHub\ConsoleApps\WebshopSync\ImageUploader\ImageUploader\obj\Debug\ImageUploader.pdb
